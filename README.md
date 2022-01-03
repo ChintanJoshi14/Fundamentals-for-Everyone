@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chintan Joshi
+- 👋 Hi, I’m Chintan Joshi, a Trainee engineer at Simform.
 - 👀 I’m interested in Software Development and Java.
 - 🌱 I’m currently pursuing Bachelors in Computer Science
 
