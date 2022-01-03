@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ChintanJoshi14
+- 👋 Hi, I’m Chintan Joshi
 - 👀 I’m interested in Software Development and Java.
-- 🌱 I’m currently pursuing Batchelors in CSE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently pursuing Bachelors in Computer Science
+
+
 
 <!---
 ChintanJoshi14/ChintanJoshi14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
