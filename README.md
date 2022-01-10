@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Chintan Joshi, a Trainee engineer at Simform.
-- 👀 I’m interested in Software Development and Java.
-- 🌱 I’m currently pursuing Bachelors in Computer Science
-
 ## This repository contains the practice files created duirng the learning phase.
 ## Index:
   **-pricingPage.html ->** learned to make payment page using card layout. Developed using HTML, CSS, and Bootstrap.
